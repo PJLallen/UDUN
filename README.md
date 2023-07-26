@@ -1,4 +1,4 @@
-# Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation (MM2023)
+# Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation (ACM-MM2023)
 
 ![UDUN](assets/Pipeline.png)
 
