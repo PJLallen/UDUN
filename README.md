@@ -57,7 +57,7 @@ Official Implementation of ACM-MM 2023 paper "[Unite-Divide-Unite: Joint Boostin
 ```
 
 ## Pre-trained models
-- Download the pre-training weights into pre folder. 
+- Download the pre-training weights into UDUN-master/pre . 
 
 | Model     | model_urls                                               |
 | :-------- |:---------------------------------------------------------|
@@ -66,7 +66,8 @@ Official Implementation of ACM-MM 2023 paper "[Unite-Divide-Unite: Joint Boostin
 | resnet50    | https://download.pytorch.org/models/resnet50-19c8e357.pth | 
 
 
-
+## our checkpoint
+Download the optimized model weights udun-trained.pth  from (Google Drive) or (Baidu Pan 提取码: ), and store them in UDUN-master/model.
 
 
 ## Usage
