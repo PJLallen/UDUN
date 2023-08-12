@@ -67,7 +67,7 @@ Official Implementation of ACM-MM 2023 paper "[Unite-Divide-Unite: Joint Boostin
 
 
 ## UDUN model weights 
-Download the optimized model weights udun-trained.pth  from (Google Drive https://drive.google.com/file/d/1c_u6zw-6W9OBmefu0wiDL73IbkTitoJu/view?usp=drive_link ) or (Baidu Pan 提取码: ), and store them in UDUN-master/model.
+Download the optimized model weights udun-trained.pth  from ([Google Drive](https://drive.google.com/file/d/1c_u6zw-6W9OBmefu0wiDL73IbkTitoJu/view?usp=drive_link )), and store them in UDUN-master/model.
 
 
 ## Usage
