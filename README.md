@@ -69,13 +69,11 @@ Download the optimized model weights and store them in UDUN-master/model.
 
 ## Usage
 
-### Train
+### Train&Test
 - To train our UDUN on single GPU by following command,the trained models will be saved in savePath folder. You can modify datapath if you want to run your own datases.
 ```shell
 ./train.sh
 ```
-
-### Test
 - To test our UDUN on DIS5K, the prediction maps  will be saved in DIS5K_Pre folder.
 ```shell
 python3 test.py 
