@@ -107,9 +107,9 @@ If this helps you, please cite this work:
 @inproceedings{pei2023udun,
   title={Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation},
   author={Pei, Jialun and Zhou, Zhangjun and Jin, Yueming and Tang, He and Pheng-Ann, Heng},
-  booktitle={MM2023},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={1--10},
   year={2023},
-  organization={Elsevier}
 }
 ```
 
