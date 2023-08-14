@@ -107,7 +107,8 @@ python3 utils.py
 
 This work is based on:
 - [LDF](https://github.com/weijun88/LDF)
-Thanks them for their great work!
+
+Thanks for their great work!
 
 ## Citation
 
