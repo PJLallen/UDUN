@@ -4,7 +4,7 @@
 
 Official Implementation of ACM-MM 2023 paper "[Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation](https://arxiv.org/abs/2307.14052)"
 
-[Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Zhangjun Zhou](), [Yueming Jin](https://scholar.google.com/citations?user=s_kbB4oAAAAJ&hl=zh-CN&oi=ao), [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ), and [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN)
+[Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), Zhangjun Zhou, [Yueming Jin](https://scholar.google.com/citations?user=s_kbB4oAAAAJ&hl=zh-CN&oi=ao), [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ), and [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN)
 
 [[Paper]](https://arxiv.org/abs/2307.14052); [Official Version];
 
@@ -18,7 +18,6 @@ Official Implementation of ACM-MM 2023 paper "[Unite-Divide-Unite: Joint Boostin
 - Opencv
 - Numpy
 - Apex
-- `pip install -r requirements.txt`
 
 ## Dataset preparation
 
@@ -59,15 +58,13 @@ Official Implementation of ACM-MM 2023 paper "[Unite-Divide-Unite: Joint Boostin
 ## Pre-trained models
 - Download the pre-training weights into UDUN-master/pre . 
 
-| Model     | model_urls                                               |
+| Model     | UDUN pretrain weights                                                |
 | :-------- |:---------------------------------------------------------|
-| resnet18       | https://download.pytorch.org/models/resnet18-5c106cde.pth| 
-| resnet34      | https://download.pytorch.org/models/resnet34-333f7ec4.pth | 
-| resnet50    | https://download.pytorch.org/models/resnet50-19c8e357.pth | 
+| [ResNet-18](https://download.pytorch.org/models/resnet18-5c106cde.pth)       | [UDUN-R18](https://drive.google.com/file/d/1c_u6zw-6W9OBmefu0wiDL73IbkTitoJu/view?usp=drive_link) | 
+| [ResNet-34](https://download.pytorch.org/models/resnet34-333f7ec4.pth)      | [UDUN-R34]() | 
+| [ResNet-50](https://download.pytorch.org/models/resnet50-19c8e357.pth)    | [UDUN-R50]() | 
 
-
-## UDUN model weights 
-Download the optimized model weights udun-trained.pth  from ([Google Drive](https://drive.google.com/file/d/1c_u6zw-6W9OBmefu0wiDL73IbkTitoJu/view?usp=drive_link )), and store them in UDUN-master/model.
+Download the optimized model weights and store them in UDUN-master/model.
 
 
 ## Usage
