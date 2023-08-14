@@ -59,7 +59,7 @@ Official Implementation of ACM-MM 2023 paper "[Unite-Divide-Unite: Joint Boostin
 - Download the pre-training weights into UDUN-master/pre . 
 
 | Model     | UDUN pretrain weights  | F_{\omega}   |  MAE   |  HCE   |
-| :-------- |:---------------------------------------------------------|
+| :-------- |:---------------------------------------------------------|:---------|:--------|:--------|
 | [ResNet-18](https://download.pytorch.org/models/resnet18-5c106cde.pth)       | [UDUN-R18](https://drive.google.com/file/d/1c_u6zw-6W9OBmefu0wiDL73IbkTitoJu/view?usp=drive_link) |   |   |    |
 | [ResNet-34](https://download.pytorch.org/models/resnet34-333f7ec4.pth)      | [UDUN-R34]() |  |   |    |
 | [ResNet-50](https://download.pytorch.org/models/resnet50-19c8e357.pth)    | [UDUN-R50]() |    |    |    |
