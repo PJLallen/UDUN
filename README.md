@@ -1,4 +1,4 @@
-# Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation (ACM-MM2023)
+# UDUN (ACM-MM2023)
 
 ![UDUN](assets/Pipeline.png)
 
@@ -89,6 +89,13 @@ python3 test_metrics.py
 python3 hce_metric_main.py
 
 ```
+
+## Visualization results
+
+The visual results are achieved by our UDUN with ResNet-50 trained on **Overall DIS-TE**.
+
+- Results on the Overall DIS-TE test set: [Baidu]()/
+[Google]()
 
 ### Get trunk map and struct map
 
