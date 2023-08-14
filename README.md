@@ -88,7 +88,7 @@ python3 hce_metric_main.py
 
 ```
 
-## Visualization results &#x26A1;
+### Visualization results &#x26A1;
 
 The visual results are achieved by our UDUN with ResNet-50 trained on **Overall DIS-TE**.
 
