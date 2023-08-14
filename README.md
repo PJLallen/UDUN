@@ -90,7 +90,6 @@ python3 hce_metric_main.py
 
 ```
 
-
 ### Get trunk map and struct map
 
 - Split the ground truth into trunk map and struct map, which will be saved into DIS5K-TR/gt/Trunk-origin and DIS5K-TR/gt/struct-origin.
@@ -100,4 +99,17 @@ cd utils
 python3 utils.py
 ```
 
+## Citation
+
+If this helps you, please cite this work:
+
+```
+@inproceedings{pei2023udun,
+  title={Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation},
+  author={Pei, Jialun and Zhou, Zhangjun and Jin, Yueming and Tang, He and Pheng-Ann, Heng},
+  booktitle={MM2023},
+  year={2023},
+  organization={Elsevier}
+}
+```
 
