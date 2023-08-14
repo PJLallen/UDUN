@@ -60,9 +60,9 @@ Official Implementation of ACM-MM 2023 paper "[Unite-Divide-Unite: Joint Boostin
 
 | Model     | UDUN pretrain weights  | $F_\omega$  $\uparrow$ |  MAE $\downarrow$  |  HCE $\downarrow$  |
 | :-------- |:---------------------------------------------------------|:---------|:--------|:--------|
-| [ResNet-18](https://download.pytorch.org/models/resnet18-5c106cde.pth)       | [UDUN-R18](https://drive.google.com/file/d/1c_u6zw-6W9OBmefu0wiDL73IbkTitoJu/view?usp=drive_link) | 0.807  | 0.065  |  1009  |
-| [ResNet-34](https://download.pytorch.org/models/resnet34-333f7ec4.pth)      | [UDUN-R34]() | 0.818  | 0.060  |  999  |
-| [ResNet-50](https://download.pytorch.org/models/resnet50-19c8e357.pth)    | [UDUN-R50]() | 0.831   | 0.057   |  977  |
+| [ResNet-18](https://download.pytorch.org/models/resnet18-5c106cde.pth)       | [UDUN-R18] | 0.807  | 0.065  |  1009  |
+| [ResNet-34](https://download.pytorch.org/models/resnet34-333f7ec4.pth)      | [UDUN-R34] | 0.818  | 0.060  |  999  |
+| [ResNet-50](https://download.pytorch.org/models/resnet50-19c8e357.pth)    | [UDUN-R50](https://drive.google.com/file/d/1c_u6zw-6W9OBmefu0wiDL73IbkTitoJu/view?usp=drive_link) | 0.831   | 0.057   |  977  |
 
 Download the optimized model weights and store them in UDUN-master/model.
 
