@@ -71,7 +71,7 @@ Download the optimized model weights and store them in UDUN-master/model.
 The visual results are achieved by our UDUN with ResNet-50 trained on **Overall DIS-TE**.
 
 - Results on the Overall DIS-TE test set: [Baidu]()/
-[Google]()
+[Google](https://drive.google.com/drive/folders/1pa3CjTVC07sPRqwIDjUId5h9PrbKwErO?usp=sharing)
 
 ## Usage
 
