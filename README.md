@@ -71,7 +71,7 @@ Download the optimized model weights and store them in UDUN-master/model.
 The visual results of Our UDUN(ResNet-50 trained) and Other SOTAs on **Overall DIS-TE**.
 
 - Results on the Overall DIS-TE test set: [Quark](https://pan.quark.cn/s/d1198c6a357b)/
-[Google]()
+[Google](https://drive.google.com/file/d/1T96f92KVOIHtDD5gpX7ziVesWgn-7RYp/view?usp=drive_link)
 
 
 ## Usage
