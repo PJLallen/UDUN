@@ -73,6 +73,10 @@ The visual results are achieved by our UDUN with ResNet-50 trained on **Overall 
 - Results on the Overall DIS-TE test set: [Quark](https://pan.quark.cn/s/62dd2d392e20)(password: z7ET)/
 [Google](https://drive.google.com/drive/folders/1pa3CjTVC07sPRqwIDjUId5h9PrbKwErO?usp=sharing)
 
+- Results on the Overall DIS-TE test set: [Quark](https://pan.quark.cn/s/d1198c6a357b)/
+[Google]()
+
+
 ## Usage
 
 ### Train&Test
