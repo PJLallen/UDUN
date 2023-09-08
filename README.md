@@ -68,7 +68,7 @@ Download the optimized model weights and store them in UDUN-master/model.
 
 ## Visualization results &#x26A1;
 
-The visual results of Our UDUN(ResNet-50 trained)on **Overall DIS-TE**.
+The visual results of Our UDUN with ResNet-50 trained on **Overall DIS-TE**.
 - Results on the Overall DIS-TE test set: [Quark](https://pan.quark.cn/s/72578b8ee41f)/
 [Google](https://drive.google.com/drive/folders/1pa3CjTVC07sPRqwIDjUId5h9PrbKwErO?usp=sharing)
 
