@@ -1,4 +1,4 @@
-# UDUN (ACM-MM2023)
+# UDUN [ACM-MM'23]
 
 ![UDUN](assets/Pipeline.png)
 
